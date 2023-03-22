@@ -8,4 +8,4 @@
 * [Maketing Analytics Case Study](https://github.com/sahmed008/Marketing-Analytics)
 ### 🥑 8 Week SQL Challenge
 * [Case Study #1 - Danny's Diner](https://github.com/sahmed008/Case-Study-1---Danny-s-Diner)
-* [Case Study #2 - Pizza Runner](https://github.com/sahmed008/Pizzametrics.md.git)
+* [Case Study #2 - Pizza Runner]()
