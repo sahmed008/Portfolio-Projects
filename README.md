@@ -2,7 +2,7 @@
 ### SQL 
 - - - -
 ### Project from Youtube
-* [Data Analyst Portfolio Project #1](https://github.com/sahmed008/Covid-Data-Analysis/blob/main/SQL%20Syntax)
+* [Data Analyst Portfolio Project #1](https://github.com/sahmed008/COVID-DATA-ANALYSIS/blob/main/CovidDataAnalysis)
 ### Project from Serious SQL Course
 * [Health Analytics Mini Case Study](https://github.com/sahmed008/Health-Analytics-Mini-Case.md/blob/main/solution.md)
 * [Maketing Analytics Case Study](https://github.com/sahmed008/Marketing-Analytics)
