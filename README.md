@@ -9,3 +9,5 @@
 ### 🥑 8 Week SQL Challenge
 * [Case Study #1 - Danny's Diner](https://github.com/sahmed008/Case-Study-1---Danny-s-Diner)
 * [Case Study #2 - Pizza Runner](https://github.com/sahmed008/Case-Study-2---Pizza-Runner)
+### Project from Github
+* [Chicago Crime](https://github.com/sahmed008/Chicago-Crime)
